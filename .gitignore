@@ -1,0 +1,9 @@
+# Secret Files
+token.json
+credentials.json
+.env
+
+# Python folders
+__pycache__/
+venv/
+.vscode/
