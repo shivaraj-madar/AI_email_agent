@@ -127,6 +127,12 @@ token.json
 ```
 
 ---
+# actions done by it 
+<img width="1134" height="438" alt="Screenshot 2026-03-28 123802" src="https://github.com/user-attachments/assets/0bca9662-7357-49f9-b068-5083be4af8c2" />
+<img width="1514" height="659" alt="Screenshot 2026-03-28 123925" src="https://github.com/user-attachments/assets/ab1ded83-6589-47ad-ab4b-02faf472b4d8" />
+<img width="1579" height="742" alt="Screenshot 2026-03-28 123832" src="https://github.com/user-attachments/assets/8098a0f6-7463-4fd6-8960-2c86b2fb1fda" />
+<img width="939" height="537" alt="Screenshot 2026-03-28 123908" src="https://github.com/user-attachments/assets/4f73c121-6f97-4b74-a931-23066f0dab67" />
+
 
 ## 📜 License
 
